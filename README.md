@@ -2,9 +2,8 @@
 
 这是 vue3-border-progressbar 组件的演示项目。
 
-## 演示动画
 
-您可以查看 `demo.gif` 文件来了解组件的动画效果。
+![效果展示](demo.gif)
 
 ## 运行演示
 
